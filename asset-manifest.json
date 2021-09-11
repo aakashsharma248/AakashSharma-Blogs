@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AakashSharma-Blogs/static/css/main.e799a9ca.chunk.css",
+    "main.js": "/AakashSharma-Blogs/static/js/main.745b6978.chunk.js",
+    "main.js.map": "/AakashSharma-Blogs/static/js/main.745b6978.chunk.js.map",
+    "runtime-main.js": "/AakashSharma-Blogs/static/js/runtime-main.859eaf5f.js",
+    "runtime-main.js.map": "/AakashSharma-Blogs/static/js/runtime-main.859eaf5f.js.map",
+    "static/js/2.8ca0ce8c.chunk.js": "/AakashSharma-Blogs/static/js/2.8ca0ce8c.chunk.js",
+    "static/js/2.8ca0ce8c.chunk.js.map": "/AakashSharma-Blogs/static/js/2.8ca0ce8c.chunk.js.map",
+    "index.html": "/AakashSharma-Blogs/index.html",
+    "static/css/main.e799a9ca.chunk.css.map": "/AakashSharma-Blogs/static/css/main.e799a9ca.chunk.css.map",
+    "static/js/2.8ca0ce8c.chunk.js.LICENSE.txt": "/AakashSharma-Blogs/static/js/2.8ca0ce8c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.859eaf5f.js",
+    "static/js/2.8ca0ce8c.chunk.js",
+    "static/css/main.e799a9ca.chunk.css",
+    "static/js/main.745b6978.chunk.js"
+  ]
+}
